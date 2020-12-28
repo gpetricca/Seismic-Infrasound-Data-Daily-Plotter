@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/github/license/raspishake/rsudp)](https://github.com/raspishake/rsudp/blob/master/LICENSE)
 
-An extension to the classic [Obspy One Day Plot](https://docs.obspy.org/tutorial/code_snippets/waveform_plotting_tutorial.html) with more customisable options.
+An extension to the classic [ObsPy One Day Plot](https://docs.obspy.org/tutorial/code_snippets/waveform_plotting_tutorial.html) with more customisable options. To modify the plot further I recommend to check the associated [ObsPy documentation](https://docs.obspy.org/contents.html).
 
 As it is possible to see from the two plots below, this script can be used with any station channel [EHZ, EHN, EHE, SHZ, ENZ, ENN, ENE], even the infrasound one [HDF].
 
